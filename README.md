@@ -37,6 +37,9 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 - 📊 **IT strategy and transformation**  
   Strategic roadmap execution, IT governance, digital prioritization and stakeholder alignment
 
+  - 💸 **Cost management and financial governance**  
+  Delivered multi-million EUR savings through vendor optimization and strategic IT cost control initiatives
+
 - 🌱 **Sustainable IT leadership**  
   Achieved near 50% carbon reduction through green IT initiatives and sustainable procurement
 
