@@ -5,7 +5,7 @@
 
 ---
 
-With nearly two decades of international leadership, I’ve guided enterprise IT organizations through large-scale transformation, modernization, and innovation. My experience spans FinTech, FMCG, Telecom, and Consulting, where I’ve built high-performing teams, driven digital change, and aligned complex technologies with long-term business value.
+With nearly two decades of leadership experience, I’ve guided enterprise IT organizations through large-scale transformation, modernization, and innovation. My experience spans FinTech, FMCG, Telecom, and Consulting, where I’ve built high-performing teams, driven digital change, and aligned complex technologies with long-term business value.
 
 I view IT as a strategic growth catalyst, not a cost center. My focus is on architecting secure, scalable, and intelligent infrastructures that enable agility, resilience, and sustainable impact across the enterprise.
 
