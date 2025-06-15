@@ -29,7 +29,7 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
   Zero Trust, DORA, GDPR, IAM, SIEM, ICT risk and incident management
 
 - ☁️ **Cloud infrastructure and IT Ops**  
-  AWS, Azure, GCP, ITSM, scalable support, MDM, EDR and end-user enablement
+  AWS, Azure, GCP, ITSM, ITIL, MDM, EDR and scalable end-user support and enablement
 
 - 🤖 **AI and automation enablement**  
   AI implementation, enterprise RPA, predictive analytics, Blue Prism, UIPath and Power BI
@@ -52,20 +52,20 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 
 - 🥇 **Innovation Leadership and Customer Care Excellence Awards**
 - 🏅 **Multi-million EUR value generated** through transformation, automation, and operational scaling
-- 📉 **Major carbon footprint reduction** through Green IT and sustainable tech sourcing
+- 📉 **Major carbon footprint reduction** through green IT and sustainable tech sourcing
 - 📈 **Double-digit efficiency gains** from AI adoption and intelligent automation
 - 🥇 **#1 market benchmark in service delivery** (FMCG sector)
 
 ---
 
-## 🎤 Speaker and Thought Leadership
+## 📢 Public speaking and industry engagement
 
-- 🎙️ **Keynote Speaker**, OPEX Week Europe (IQPC)
-- 🧠 **Executive Panelist**, Google | Digital Native Collaboration
-- 💬 **Customer Contact Week Europe**, IQPC
-- 📰 **Featured Author**, Confederation of Danish Industry publications
-- 🧭 **Mentor**, OfficeLab A/S, Tre-to-en.nu
+- 🎙️ **Executive Panelist**, Google | Digital Native Businesses & the Rules of Successful Collaboration
+- 💬 **Executive Panelist**, IQPC | Customer Contact Week Europe
+- 🧠 **Keynote Speaker & Executive Panelist**, Allan Lloyds | 12th Annual Optimising Contact Centres Summit
+- 🎤 **Keynote Speaker**, IQPC | OPEX Week Europe
 - 🛠️ **Taskforce Member**, Confederation of Danish Industry
+- 🤝 **Business Mentor**, OfficeLab A/S and _Tre-to-en.nu
 
 ---
 
