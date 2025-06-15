@@ -15,39 +15,39 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 
 | Company | Sector | Focus & Achievements |
 |--------|--------|-----------------------|
-| **Lunar** | FinTech | Delivered significant IT savings, strengthened DORA-compliant security, and led AI-powered automation across the enterprise |
-| **Carlsberg Group** | FMCG | Unified 40+ FTE function, expanded sales and customer base, enabled data-driven sales analytics and automation |
-| **Arla Foods** | FMCG | Built digital commerce solutions, merged ERP systems, reduced food waste through predictive analytics and process excellence |
-| **TDC Group** | Telecom | Modernized call center infrastructure, introduced IVR and digital self-service, optimized service delivery operations |
+| **[Lunar](https://www.lunar.app)** | FinTech | Delivered significant IT savings, strengthened DORA-compliant security, and led AI-powered automation across the enterprise |
+| **[Carlsberg Group](https://www.carlsberggroup.com)** | FMCG | Unified 40+ FTE function, expanded sales and customer base, enabled data-driven sales analytics and automation |
+| **[Arla Foods](https://www.arlafoods.com)** | FMCG | Built digital commerce solutions, merged ERP systems, reduced food waste through predictive analytics and process excellence |
+| **[TDC Group](https://www.nuuday.com)** | Telecom | Modernized call center infrastructure, introduced IVR and digital self-service, optimized service delivery operations |
 | **byDesign** | Digital Consulting | Co-founded a digital agency, developed CRM-integrated platforms and growth strategies for SMEs |
 
 ---
 
 ## 🧠 Signature areas of expertise
 
-- 🔐 **Cybersecurity & Risk Governance**  
-  Zero Trust, DORA, GDPR, IAM, SIEM, ICT risk, incident response
+- 🔐 **Cybersecurity and risk governance**  
+  Zero Trust, DORA, GDPR, IAM, SIEM, ICT risk and incident management
 
-- ☁️ **Cloud Infrastructure & IT Ops**  
-  AWS, Azure, GCP, ITSM, scalable support, MDM, EDR, end-user enablement
+- ☁️ **Cloud infrastructure and IT Ops**  
+  AWS, Azure, GCP, ITSM, scalable support, MDM, EDR and end-user enablement
 
-- 🤖 **AI & Automation Enablement**  
-  AI boards, enterprise RPA, predictive analytics, Blue Prism, Power BI
+- 🤖 **AI and automation enablement**  
+  AI implementation, enterprise RPA, predictive analytics, Blue Prism, UIPath and Power BI
 
-- 📊 **IT Strategy & Transformation**  
-  Strategic roadmap execution, IT governance, digital prioritization, stakeholder alignment
+- 📊 **IT strategy and transformation**  
+  Strategic roadmap execution, IT governance, digital prioritization and stakeholder alignment
 
-- 🌱 **Sustainable IT Leadership**  
+- 🌱 **Sustainable IT leadership**  
   Achieved near 50% carbon reduction through green IT initiatives and sustainable procurement
 
-- 👥 **Organizational Leadership & Change**  
-  Cross-functional team building, agile leadership, digital upskilling, talent development
+- 👥 **Organizational leadership and change**  
+  Cross-functional team building, agile leadership, digital upskilling and talent development
 
 ---
 
 ## 🏆 Awards, honors and recognized impact
 
-- 🥇 **Innovation Leadership & Customer Care Excellence Awards**
+- 🥇 **Innovation Leadership and Customer Care Excellence Awards**
 - 🏅 **Multi-million EUR value generated** through transformation, automation, and operational scaling
 - 📉 **Major carbon footprint reduction** through Green IT and sustainable tech sourcing
 - 📈 **Double-digit efficiency gains** from AI adoption and intelligent automation
