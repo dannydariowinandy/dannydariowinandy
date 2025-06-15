@@ -11,6 +11,16 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 
 ---
 
+## 📑 Table of Contents
+- [Career at a Glance](#career-at-a-glance)
+- [Signature Competencies](#signature-areas-of-expertise)
+- [Public Speaking](#public-speaking--industry-engagement)
+- [Featured Publications](#featured-publications--media)
+- [Strategic Projects](#strategic-projects-in-progress)
+- [Let’s Connect](#lets-connect)
+
+---
+
 ## 🌍 Career at a glance
 
 | Company | Sector | Focus & Achievements |
