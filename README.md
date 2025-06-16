@@ -73,4 +73,3 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dannydariowinandy)
 - 🌍 [Website](https://www.dannydariowinandy.com)
-- 📧 hello [at] dannydariowinandy [dot] com
