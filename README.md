@@ -49,7 +49,6 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
   ![UiPath](https://img.shields.io/badge/RPA-UiPath-blue?logo=uipath)
   ![Blue Prism](https://img.shields.io/badge/RPA-BluePrism-darkblue)
   ![Power BI](https://img.shields.io/badge/Analytics-PowerBI-yellow?logo=powerbi)
-  
 
 - 📊 **IT strategy and digital transformation**  
   - Strategic roadmap execution aligned with business growth.  
