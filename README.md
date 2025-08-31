@@ -25,29 +25,44 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 
 ## 🧠 Signature areas of expertise
 
-- ⚙️ **IT Operations**  
-  - Reduced IT spend by **20%+** at Lunar through SaaS optimization & vendor negotiations, led **cloud-first modernization** (MDM, IAM, ITSM, EDR) to scale securely, boosted efficiency by **20%** with AI-driven automation in IT workflows.
+- ⚙️ **IT Operations & Service Delivery**  
+  - Reduced IT spend by **20%+** at Lunar through SaaS optimization and vendor negotiations.  
+  - Built ITIL-aligned service models supporting 600+ employees.  
+  - Led **cloud-first modernization** (MDM, IAM, ITSM, EDR) to scale securely.  
 
-- 🔐 **Cybersecurity and risk governance**  
-  Zero Trust, DORA, GDPR, IAM, SIEM, ICT risk and incident management
+- 🔐 **Cybersecurity & Risk Governance**  
+  - Board-level reporting on IT security posture, risk and compliance.  
+  - Expertise in **Zero Trust, DORA, GDPR, IAM, SIEM, ICT risk and incident management**.  
+  - Automated compliance controls and strengthened enterprise resilience.  
 
-- ☁️ **Cloud infrastructure and IT Ops**  
-  AWS, Azure, GCP, ITSM, ITIL, MDM, EDR and scalable end-user support and enablement
+- ☁️ **Cloud Infrastructure & Modern IT Ops**  
+  - Hands-on experience with **AWS, Azure, GCP**.  
+  - Enterprise ITSM and ITIL frameworks for scalable, secure support.  
+  - End-user enablement and device management at enterprise scale.  
 
-- 🤖 **AI and automation enablement**  
-  AI implementation, enterprise RPA, predictive analytics, Blue Prism, UIPath and Power BI
+- 🤖 **AI & Automation Enablement**  
+  - Founded and chaired Lunar’s **AI Enablement Board**.  
+  - Delivered 20%+ efficiency boost via AI-driven automation.  
+  - Enterprise RPA deployments (Blue Prism, UiPath) and predictive analytics with Power BI.  
 
-- 📊 **IT strategy and transformation**  
-  Strategic roadmap execution, IT governance, digital prioritization and stakeholder alignment
+- 📊 **IT Strategy & Digital Transformation**  
+  - Strategic roadmap execution aligned with business growth.  
+  - Governance and portfolio prioritization across IT and business units.  
+  - Deep experience bridging **Ops, Security, and Business Strategy**.  
 
-- 💸 **Cost management and financial governance**  
-  Delivered multi-million EUR savings through vendor optimization and strategic IT cost control initiatives
+- 💸 **Cost Management & Financial Governance**  
+  - Delivered multi-million EUR savings through **vendor optimization and strategic IT cost control**.  
+  - Designed scalable IT cost models supporting business growth.  
+  - Strong focus on balancing **efficiency and resilience**.  
 
-- 🌱 **Sustainable IT leadership**  
-  Achieved near 50% carbon reduction through green IT initiatives and sustainable procurement
+- 🌱 **Sustainable IT Leadership**  
+  - Achieved **~47% CO₂ reduction** via sustainable procurement and green IT initiatives.  
+  - Designed enterprise **Green IT models** enhancing energy efficiency.  
 
-- 👥 **Organizational leadership and change**  
-  Cross-functional team building, agile leadership, digital upskilling and talent development
+- 👥 **Organizational Leadership & Change**  
+  - Built and scaled high-performing cross-functional teams.  
+  - Agile leadership, digital upskilling, and continuous talent development.  
+  - Advocate for **mental health openness** and inclusive workplace cultures.
 
 ---
 
