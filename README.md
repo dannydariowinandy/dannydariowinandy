@@ -43,7 +43,12 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 - 🤖 **AI and automation enablement**  
   - Founded and chaired Lunar’s **AI Enablement Board**.  
   - Delivered 20%+ efficiency boost via AI-driven automation.  
-  - Enterprise RPA deployments (Blue Prism, UiPath) and predictive analytics with Power BI.  
+  - Enterprise RPA deployments (Blue Prism, UiPath) and predictive analytics with Power BI.
+
+  ![AI](https://img.shields.io/badge/AI-MachineLearning-brightgreen)
+  ![UiPath](https://img.shields.io/badge/RPA-UiPath-blue?logo=uipath)
+  ![Blue Prism](https://img.shields.io/badge/RPA-BluePrism-darkblue)
+  ![Power BI](https://img.shields.io/badge/Analytics-PowerBI-yellow?logo=powerbi)
 
 - 📊 **IT strategy and digital transformation**  
   - Strategic roadmap execution aligned with business growth.  
