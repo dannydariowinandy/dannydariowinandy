@@ -41,6 +41,7 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
   - End-user enablement and device management at enterprise scale.  
 
 - 🤖 **AI and automation enablement**
+
   ![AI](https://img.shields.io/badge/AI-MachineLearning-brightgreen)
   ![UiPath](https://img.shields.io/badge/RPA-UiPath-blue?logo=uipath)
   ![Blue Prism](https://img.shields.io/badge/RPA-BluePrism-darkblue)
