@@ -5,9 +5,10 @@
 
 ---
 
-With nearly two decades of leadership experience, I’ve guided enterprise IT and Operations organizations through large-scale transformation, modernization, and innovation. My experience spans FinTech, FMCG, Telecom, and Consulting, where I’ve built high-performing teams, driven digital change, and aligned complex technologies with long-term business value.
+I focus on balancing **scalable IT operations** with **robust cybersecurity and compliance** to help organizations innovate with confidence.  
+My career spans **FinTech, FMCG, Telecom, and Consulting**, where I’ve built resilient IT organizations, led enterprise-scale transformations, and delivered measurable results in cost efficiency, growth, and sustainability.  
 
-I view IT as a strategic growth catalyst, not a cost center. My focus is on architecting secure, scalable, and intelligent infrastructures that enable agility, resilience, and sustainable impact across the enterprise.
+I see IT as a **strategic growth catalyst, not a cost center** - architecting secure, cloud-first, and intelligent infrastructures that enable agility, resilience, and long-term business value.  
 
 ---
 
