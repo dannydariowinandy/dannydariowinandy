@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Danny Dario Winandy
 
-🎯 **IT Director | Scaling IT Operations and Cybersecurity | Building Resilient, Cloud-First and Compliant Enterprises | Speaker and Thought Leader**  
+🎯 **IT Director | Scaling IT Operations and Cybersecurity | Building Resilient, Cloud-First and Compliant Enterprises**  
 🎤 **Public Speaker | Thought Leader | Cross-Industry Change Maker**
 
 ---
@@ -24,6 +24,9 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 ---
 
 ## 🧠 Signature areas of expertise
+
+- ⚙️ **IT Operations**  
+  Reduced IT spend by **20%+** at Lunar through SaaS optimization & vendor negotiations, led **cloud-first modernization** (MDM, IAM, ITSM, EDR) to scale securely, boosted efficiency by **20%** with AI-driven automation in IT workflows.
 
 - 🔐 **Cybersecurity and risk governance**  
   Zero Trust, DORA, GDPR, IAM, SIEM, ICT risk and incident management
