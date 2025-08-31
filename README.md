@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Danny Dario Winandy
 
-🎯 **IT Director | AI, Cloud & Cybersecurity Strategist | Scaling Digital Transformation & Enterprise Automation**  
+🎯 **IT Director | Scaling IT Operations and Cybersecurity | Building Resilient, Cloud-First and Compliant Enterprises | Speaker and Thought Leader**  
 🎤 **Public Speaker | Thought Leader | Cross-Industry Change Maker**
 
 ---
