@@ -6,7 +6,7 @@
 ---
 
 I focus on balancing **scalable IT operations** with **robust cybersecurity and compliance** to help organizations innovate with confidence.  
-My career spans **FinTech, FMCG, Telecom, and Consulting**, where I’ve built resilient IT organizations, led enterprise-scale transformations, and delivered measurable results in cost efficiency, growth, and sustainability.  
+My career spans FinTech, FMCG, Telecom, and Consulting, where I’ve built resilient IT organizations, driven enterprise-scale transformations, and delivered measurable results in efficiency, growth, and sustainability.  
 
 I see IT as a **strategic growth catalyst, not a cost center** - architecting secure, cloud-first, and intelligent infrastructures that enable agility, resilience, and long-term business value.  
 
