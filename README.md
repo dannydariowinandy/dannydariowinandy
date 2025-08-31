@@ -15,10 +15,10 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 
 | Company | Sector | Focus & Achievements |
 |--------|--------|-----------------------|
-| **[Lunar](https://www.lunar.app)** | FinTech | Delivered significant IT savings, strengthened DORA-compliant security, and led AI-powered automation across the enterprise |
-| **[Carlsberg Group](https://www.carlsberggroup.com)** | FMCG | Unified 40+ FTE function, expanded sales and customer base, enabled data-driven sales analytics and automation |
-| **[Arla Foods](https://www.arlafoods.com)** | FMCG | Built digital commerce solutions, merged ERP systems, reduced food waste through predictive analytics and process excellence |
-| **[TDC Group](https://www.nuuday.com)** | Telecom | Modernized call center infrastructure, introduced IVR and digital self-service, optimized service delivery operations |
+| **[Lunar](https://www.lunar.app)** | FinTech | Reduced IT spend by 20%+, implemented DORA-compliant cybersecurity frameworks, chaired the AI Enablement Board, and cut CO₂ emissions by 47% through Green IT |
+| **[Carlsberg Group](https://www.carlsberggroup.com)** | FMCG | Unified 40+ FTE function, grew customer base by 4% and sales by 3%, and deployed RPA/BI to boost sales rep performance by 20% |
+| **[Arla Foods](https://www.arlafoods.com)** | FMCG | Delivered multi-million EUR efficiencies through automation, integrated ERP systems post-merger, and built digital commerce solutions driving new revenue streams |
+| **[TDC Group](https://www.nuuday.com)** | Telecom | Modernized call center infrastructure with Genesys, introduced IVR and digital self-service, and enhanced customer experience via AI-driven troubleshooting |
 | **byDesign** | Digital Consulting | Co-founded a digital agency, developed CRM-integrated platforms and growth strategies for SMEs |
 
 ---
@@ -68,22 +68,19 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 
 ## 🏆 Awards, honors and recognized impact
 
-- 🥇 **Innovation Leadership and Customer Care Excellence Awards**
-- 🏅 **Multi-million EUR value generated** through transformation, automation, and operational scaling
-- 📉 **Major carbon footprint reduction** through green IT and sustainable tech sourcing
-- 📈 **Double-digit efficiency gains** from AI adoption and intelligent automation
-- 🥇 **#1 market benchmark in service delivery** (FMCG sector)
+- 🥇 **Innovation & Excellence** → Arla Innovation Award, Customer Care Excellence Award, #1 FMCG service delivery benchmark.
+- 🌱 **Sustainability Leadership** → Major carbon footprint reduction (~47%) through Green IT sourcing and sustainable technology practices.
+- 📈 **Business Value Creation** → Multi-million EUR savings through automation and operational scaling, double-digit efficiency gains from AI adoption.
 
 ---
 
 ## 📢 Public speaking and industry engagement
 
-- 🎙️ **Executive Panelist**, Google | Digital Native Businesses & the Rules of Successful Collaboration
-- 💬 **Executive Panelist**, IQPC | Customer Contact Week Europe
-- 🧠 **Keynote Speaker & Executive Panelist**, Allan Lloyds | 12th Annual Optimising Contact Centres Summit
-- 🎤 **Keynote Speaker**, IQPC | OPEX Week Europe
-- 🛠️ **Taskforce Member**, Confederation of Danish Industry
-- 🤝 **Business Mentor**, OfficeLab A/S and Tre-to-en.nu
+- 🎙️ **Google** – Executive Panelist: Digital Native Businesses & the Rules of Successful Collaboration  
+- 💬 **IQPC** – Executive Panelist: Customer Contact Week Europe, Keynote at OPEX Week Europe  
+- 🧠 **Allan Lloyds** – Keynote Speaker: 12th Annual Optimising Contact Centres Summit  
+- 🎤 **Confederation of Danish Industry** – Taskforce Member on Digital Business Initiatives  
+- 🤝 **OfficeLab & Tre-to-en.nu** – Business Mentor for start-ups and scale-ups  
 
 ---
 
