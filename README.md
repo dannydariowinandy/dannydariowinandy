@@ -83,7 +83,7 @@ I view IT as a strategic growth catalyst, not a cost center. My focus is on arch
 - 🧠 **Keynote Speaker & Executive Panelist**, Allan Lloyds | 12th Annual Optimising Contact Centres Summit
 - 🎤 **Keynote Speaker**, IQPC | OPEX Week Europe
 - 🛠️ **Taskforce Member**, Confederation of Danish Industry
-- 🤝 **Business Mentor**, OfficeLab A/S and _Tre-to-en.nu
+- 🤝 **Business Mentor**, OfficeLab A/S and Tre-to-en.nu
 
 ---
 
